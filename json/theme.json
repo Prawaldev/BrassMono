@@ -1,0 +1,15 @@
+{
+  "spec": 1,
+  "name": "BrassMono",
+  "previewText": "BrassMono",
+  "main": {
+    "BrassMono-Bold": "https://github.com/6bpr/BrassMono/raw/refs/heads/main/fonts/BrassMono/BrassMono-Bold.ttf",
+    "BrassMono-BoldItalic": "https://github.com/6bpr/BrassMono/raw/refs/heads/main/fonts/BrassMono/BrassMono-BoldItalic.ttf",
+    "BrassMono-Italic": "https://github.com/6bpr/BrassMono/raw/refs/heads/main/fonts/BrassMono/BrassMono-Italic.ttf",
+    "BrassMono-Regular": "https://github.com/6bpr/BrassMono/raw/refs/heads/main/fonts/BrassMono/BrassMono-Regular.ttf",
+    "BrassMonoCode-Bold": "https://github.com/6bpr/BrassMono/raw/refs/heads/main/fonts/BrassMono/BrassMonoCode-Bold.ttf",
+    "BrassMonoCode-BoldItalic": "https://github.com/6bpr/BrassMono/raw/refs/heads/main/fonts/BrassMono/BrassMonoCode-BoldItalic.ttf",
+    "BrassMonoCode-Italic": "https://github.com/6bpr/BrassMono/raw/refs/heads/main/fonts/BrassMono/BrassMonoCode-Italic.ttf",
+    "BrassMonoCode-Regular": "https://github.com/6bpr/BrassMono/raw/refs/heads/main/fonts/BrassMono/BrassMonoCode-Regular.ttf"
+  }
+}
