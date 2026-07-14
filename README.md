@@ -35,7 +35,7 @@ You need a direct JSON raw link:
 ---
 
 ### 📎 Raw JSON Link
-https://raw.githubusercontent.com/Prawaldev/Brass-Mono-Discord/refs/heads/main/json/theme.json
+https://raw.githubusercontent.com/Prawaldev/BrassMono/refs/heads/main/json/theme.json
 
 ---
 
